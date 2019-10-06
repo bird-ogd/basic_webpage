@@ -1,0 +1,40 @@
+var data = {
+	"name": "Company Name",
+	"logo": "logo url",
+	"subheading": "Hello",
+	"address": {	"address_1": "High Street", 
+					"address_2": "Exampletown", 
+					"address_3": "",
+					"county": "Exampleshire", 
+					"postcode": "EX3 MPL"
+				},
+	"telephone": "0800123456",
+	"email": "example@email.com",
+	"lat": "51",
+	"lon": "-1",
+	"images": {
+		"Image 1": "images/IMG_1.jpg",
+		"Image 2": "images/IMG_2.jpg",
+		"Image 3": "images/IMG_3.jpg",
+		"Image 4": "images/IMG_4.jpg",
+		"Image 5": "images/IMG_5.jpg",
+		"Image 6": "images/IMG_6.jpg",
+	},
+	"docs": {
+		"Certificate": "cert.pdf",
+		"Newsletter": "news.pdf",
+		"Privacy Policy": "privacy.pdf"
+	},
+	"bio": "This is the bio of the website",
+	"services": {
+		"service one": "service one details",
+		"service two": "service two details",
+		"service three": "service three details"
+	},
+	"social": {
+		"facebook": "",
+		"twitter": "",
+		"instagram": "",
+		"linkedin": ""
+	}
+}
